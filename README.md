@@ -15,3 +15,4 @@
 ### Round B
     No Nine: S, L
     Sherlock and the Bit Strings: S
+    King's Circle: TLE
