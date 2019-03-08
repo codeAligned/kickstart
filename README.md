@@ -18,3 +18,4 @@
     King's Circle: TLE
     
 ### Round C
+    Planet Distance: S
