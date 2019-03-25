@@ -6,6 +6,10 @@
     Mural: S, L
     Kickstart Alarms: S, L
 
+### Round A
+	Training: S, L
+	Parcels: S
+
 ## 2018
 ### Round A
     Even Digits: S, L
