@@ -23,3 +23,11 @@
     
 ### Round C
     Planet Distance: S
+
+# Google Code Jam
+
+## 2019
+### Qualification Round
+	Foregone Solution: S, L
+	You Can Go Your Own Way: S, L
+	Cryptopangrams: S, L
