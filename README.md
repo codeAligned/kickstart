@@ -31,3 +31,12 @@
 	Foregone Solution: S, L
 	You Can Go Your Own Way: S, L
 	Cryptopangrams: S, L
+
+## 2018
+### Qualification Round
+	Saving The Universe Again: S, L
+	Trouble Sort: S, L
+	
+### Round 1A
+	Waffle Choppers: S, L
+	Bit Party: S, L
