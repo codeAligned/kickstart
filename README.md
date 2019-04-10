@@ -40,3 +40,8 @@
 ### Round 1A
 	Waffle Choppers: S, L
 	Bit Party: S, L
+	Edgy Baking: S
+	
+### Round 1C
+	A Whole New Word: S, L
+	Ant Stack: S
