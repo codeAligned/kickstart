@@ -31,6 +31,10 @@
 	Foregone Solution: S, L
 	You Can Go Your Own Way: S, L
 	Cryptopangrams: S, L
+	
+### Round 1A
+	Pylons: S
+	Alien Rhyme: S, L
 
 ## 2018
 ### Qualification Round
