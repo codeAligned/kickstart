@@ -10,6 +10,11 @@
 	Training: S, L
 	Parcels: S
 
+### Round B
+	Building Palindromes: S, L
+	Energy Stones: S, L
+	Diverse Subarray: TLE
+
 ## 2018
 ### Round A
     Even Digits: S, L
