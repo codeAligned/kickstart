@@ -41,6 +41,11 @@
 	Pylons: S
 	Alien Rhyme: S, L
 
+### Round 1B
+	Manhattan Crepe Cart: S, L
+	Draupnir: S
+	Fair Fight: S
+
 ## 2018
 ### Qualification Round
 	Saving The Universe Again: S, L
