@@ -46,6 +46,10 @@
 	Draupnir: S
 	Fair Fight: S
 
+### Round 1C
+	Robot Programming Strategy: S, L
+	Power Arrangers: S, L
+
 ## 2018
 ### Qualification Round
 	Saving The Universe Again: S, L
